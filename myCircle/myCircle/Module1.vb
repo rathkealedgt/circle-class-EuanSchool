@@ -11,6 +11,7 @@
         Console.WriteLine("Centre Point is = " & c.GetPoint().ToString())
         Console.WriteLine("Distance From Origin = " & c.GetPoint().Distance().ToString)
         Console.Read()
+        Console.Write("Goodbye")
 
     End Sub
 
